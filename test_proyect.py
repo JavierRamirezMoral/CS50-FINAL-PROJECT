@@ -9,15 +9,15 @@ from project import (
 
 # Test images paths - UPDATE THESE TO MATCH YOUR ACTUAL PATHS
 TEST_IMAGES = {
-    "cat": r"C:\Users\Javier Ramírez Moral\Desktop\CS50P_Final_Project\assets\animals\cat.jpg",
-    "dog": r"C:\Users\Javier Ramírez Moral\Desktop\CS50P_Final_Project\assets\animals\dog.jpg",
-    "clownfish": r"C:\Users\Javier Ramírez Moral\Desktop\CS50P_Final_Project\assets\animals\clownfish.jpg",
-    "pizza": r"C:\Users\Javier Ramírez Moral\Desktop\CS50P_Final_Project\assets\food\pizza.jpg",
-    "apple": r"C:\Users\Javier Ramírez Moral\Desktop\CS50P_Final_Project\assets\food\apple.jpg",
-    "icecream": r"C:\Users\Javier Ramírez Moral\Desktop\CS50P_Final_Project\assets\food\icecream.jpg",
-    "car": r"C:\Users\Javier Ramírez Moral\Desktop\CS50P_Final_Project\assets\objects\car.jpg",
-    "cup": r"C:\Users\Javier Ramírez Moral\Desktop\CS50P_Final_Project\assets\objects\cup.jpg",
-    "pc": r"C:\Users\Javier Ramírez Moral\Desktop\CS50P_Final_Project\assets\objects\pc.jpg"
+    "cat": r"C:\Users\....CS50P_Final_Project\assets\animals\cat.jpg",
+    "dog": r"C:\Users\....CS50P_Final_Project\assets\animals\dog.jpg",
+    "clownfish": r"C:\Users\....CS50P_Final_Project\assets\animals\clownfish.jpg",
+    "pizza": r"C:\Users\....CS50P_Final_Project\assets\food\pizza.jpg",
+    "apple": r"C:\Users\....CS50P_Final_Project\assets\food\apple.jpg",
+    "icecream": r"C:\Users\....CS50P_Final_Project\assets\food\icecream.jpg",
+    "car": r"C:\Users\....CS50P_Final_Project\assets\objects\car.jpg",
+    "cup": r"C:\Users\....CS50P_Final_Project\assets\objects\cup.jpg",
+    "pc": r"C:\Users\....CS50P_Final_Project\assets\objects\pc.jpg"
 }
 
 
