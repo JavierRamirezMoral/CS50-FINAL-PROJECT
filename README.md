@@ -8,7 +8,7 @@
 - **YouTube Channel**: [Javier Ramírez Moral on YouTube](https://www.youtube.com/@TerraKubeSphere)  
 - **LinkedIn**: [Javier Ramírez Moral on LinkedIn](https://www.linkedin.com/in/javier-ram%C3%ADrez-moral-267191215/)  
 
-# 🎥 Video Demo: [Watch the Demo](<YOUR_VIDEO_URL>)  
+# 🎥 Video Demo: [Watch the Demo](https://youtu.be/JeNU9jJKfVg?si=QdhCGj_qcLmah1mJ)  
 ![Video Demo Thumbnail](photos/CS50P_Final_Project%20(1).png)
 ---  
 
